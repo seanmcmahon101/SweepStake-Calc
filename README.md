@@ -13,6 +13,9 @@ This is a web application for managing a sweepstakes
 
 ### Prerequisites
 
+[Python 3.12.3 Release](https://www.python.org/downloads/release/python-3123/)
+
+
 - Python 3.6 or higher
 - Flask
 
