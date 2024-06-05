@@ -1,4 +1,4 @@
-# Three Peaks Challenge Sweepstake
+# Sweepstake Calculator
 
 This is a web application for managing a sweepstakes
 
