@@ -30,3 +30,9 @@ pip install flask
 ```
 
 #Running
+
+```she
+https://github.com/seanmcmahon101/SweepStake-Calc.git
+cd SweepStake-Calc
+py app.py
+```
