@@ -24,7 +24,7 @@ This is a web application for managing a sweepstakes
 **Running**
 
    ```she
-   https://github.com/seanmcmahon101/SweepStake-Calc.git
+   git clone https://github.com/seanmcmahon101/SweepStake-Calc.git
    cd SweepStake-Calc
    py app.py
    ```
