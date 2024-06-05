@@ -16,23 +16,15 @@ This is a web application for managing a sweepstakes
 - Python 3.6 or higher
 - Flask
 
-### Installation
-
-1. **Clone the repository:**
+**Dependencies**
    ```sh
-   git clone https://github.com/yourusername/sweepstake.git
-   cd sweepstake
+   pip install flask
+   ```
 
-#Dependencies
+**Running**
 
-```sh
-pip install flask
-```
-
-#Running
-
-```she
-https://github.com/seanmcmahon101/SweepStake-Calc.git
-cd SweepStake-Calc
-py app.py
-```
+   ```she
+   https://github.com/seanmcmahon101/SweepStake-Calc.git
+   cd SweepStake-Calc
+   py app.py
+   ```
