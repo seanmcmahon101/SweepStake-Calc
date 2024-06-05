@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three Peaks Challenge Sweepstake</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Three Peaks Challenge Sweepstake</h1>
+        <form action="/add_participant" method="post" class="mt-3">
+            <div class="form-group">
+                <label for="name">Participant Name:</label>
+                <input type="text" class="form-control" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="mountain1">Bet for Mountain 1:</label>
+                <input type="text" class="form-control" id="mountain1" name="mountain1" required>
+            </div>
+            <div class="form-group">
+                <label for="mountain2">Bet for Mountain 2:</label>
+                <input type="text" class="form-control" id="mountain2" name="mountain2" required>
+            </div>
+            <div class="form-group">
+                <label for="mountain3">Bet for Mountain 3:</label>
+                <input type="text" class="form-control" id="mountain3" name="mountain3" required>
+            </div>
+            <div class="form-group">
+                <label for="amount">Amount (£):</label>
+                <input type="number" class="form-control" id="amount" name="amount" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Add Participant</button>
+        </form>
+        <div class="mt-3">
+            <a href="/participants" class="btn btn-info">Show Participants</a>
+            <a href="/calculate_results" class="btn btn-success">Calculate Results</a>
+        </div>
+    </div>
+</body>
+</html>
