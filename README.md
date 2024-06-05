@@ -23,6 +23,10 @@ This is a web application for managing a sweepstakes
    git clone https://github.com/yourusername/sweepstake.git
    cd sweepstake
 
+#Dependencies
+
 ```sh
 pip install flask
-'''
+```
+
+#Running
