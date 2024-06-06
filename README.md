@@ -11,7 +11,7 @@ This is a web application for managing a sweepstakes
 
 ## Setup Instructions
 
-### Prerequisites
+### Prerequisites (downlaods python)
 
 [Python 3.12.3 Release](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)
 
