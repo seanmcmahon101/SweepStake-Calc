@@ -15,7 +15,7 @@ This is a web application for managing a sweepstakes
 
 [Python 3.12.3 Release](https://www.python.org/downloads/release/python-3123/)
 
-### Makes Life Easier: 
+### Makes Life Easier (downloads git): 
 
 [Git Download](https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe)
 
