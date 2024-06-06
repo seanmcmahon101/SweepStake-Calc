@@ -13,7 +13,7 @@ This is a web application for managing a sweepstakes
 
 ### Prerequisites
 
-[Python 3.12.3 Release](https://www.python.org/downloads/release/python-3123/)
+[Python 3.12.3 Release]([https://www.python.org/downloads/release/python-3123/](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe))
 
 ### Makes Life Easier (downloads git): 
 
